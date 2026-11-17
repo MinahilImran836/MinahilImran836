@@ -75,7 +75,6 @@ When I'm not coding, I'm probably creating something else.
 -  **Design** — Exploring aesthetics, interfaces, typography, and visual experiences.
 -  **Curiosity** — I have way too many interests and an endless list of things I want to try.
 
-I like having more than one creative outlet. Not everything has to be code!
-*Somewhere between logic and creativity, you'll find me building something.*
+I like having more than one creative outlet. Not everything has to be code.
 
 </div>
